@@ -1,0 +1,100 @@
+body{
+    background-image: url(./50-bonus-web-banner-mymtnapp.1.jpeg);
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+
+    }
+    .ytyytyt{
+      display: flex;
+      justify-content: space-between;  
+    }
+
+#section2{
+    
+    height: 3rem;
+    background: linear-gradient(to top, rgb(167, 163, 163), rgb(219, 217, 202)) ;
+    display: flex;
+   font-family: sans-serif;
+    justify-content: left;
+    position: fixed;
+    width: 100%;
+}
+#section{
+    background-color: rgb(255, 251, 0);    
+    display: flex;
+    border-radius: 2rem;
+    width: 90%;
+    justify-content: space-evenly;
+    height: 5rem;
+    align-items: center;
+    justify-content: left;
+    font-family: sans-serif;
+    margin-left: 4rem;
+    position: fixed;
+    margin-top: 3rem;
+}
+.img-graber{
+    width: 6rem;
+    height: 4rem;
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: space-between;
+}
+.level{
+    color: black;
+    padding: 11rem;
+    font-size: 3rem;
+    font-family: sans-serif;
+  
+    text-align: left;
+}
+.learn-me{
+    margin-left: 35%;
+}
+#section-A{
+    height: 130vh;
+}
+.tryrt{
+    border-bottom: 2px solid red;
+}
+#section-p{
+    border-bottom: 2px solid rgb(255, 0, 0);
+}
+#sectioon-r{
+    height: 150vh;
+}
+
+.imggg{
+    margin: 6rem;
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.Devices{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 2.5rem;
+   display: flex;
+   justify-content: space-evenly;
+
+}
+.iowow{
+    
+    margin: 4rem;
+    
+    align-items: left;
+}
+.iiii{
+    
+}
+/* .ppp{ */
+    justify-content: end;
+    display: flex;
+   
+   
+
+#rrrr{
+    display: flex;
+}
